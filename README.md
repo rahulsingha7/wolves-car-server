@@ -1,7 +1,6 @@
 # Wolves Car
 
-website link: https://wolves-car.web.app/
-
+website link: 
 # About the website
 
 * This website is designed with tailwind css
